@@ -1,4 +1,4 @@
-## this is the basic code i used 
+## this is the basic sample.php 
 
 <!DOCTYPE html>
 <html>
