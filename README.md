@@ -46,6 +46,7 @@ Linux-LAMP-Project/
 ├── screenshots/
 │   ├── First_UI_Page.png
 │   └── Second_UI_Page.png
+|   |__ Database.png
 └── web/
     ├── sample.php
     └── submit.php
@@ -62,6 +63,9 @@ Refer to `setup\_instructions.md` for detailed steps on setting up the environme
 
 ### Submission Result
 ![Submission Result](Second_UI_Page.png)
+
+### DATABASE 
+![Dataset Result](Database.png)
 
 
 This project is aimed at beginners and enthusiasts who want practical experience with Linux server management and web application deployment.
