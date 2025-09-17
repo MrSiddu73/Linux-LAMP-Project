@@ -41,23 +41,27 @@ This repository contains a web application deployment project using the LAMP sta
 \## 📂 Folder Structure
 
 Linux-LAMP-Project/
-
 ├── README.md
-
-├── setup\_instructions.md
-
+├── setup_instructions.md
+├── screenshots/
+│   ├── First_UI_Page.png
+│   └── Second_UI_Page.png
 └── web/
-
-&nbsp;   ├── sample.php
-
-&nbsp;   └── submit.php
-
+    ├── sample.php
+    └── submit.php
 
 
 \## 📖 How to Use
 
 Refer to `setup\_instructions.md` for detailed steps on setting up the environment and deploying the project.
 
+## 📸 Screenshots
+
+### Web Form
+![Signup Form](First_UI_Page.png)
+
+### Submission Result
+![Submission Result](Second_UI_Page.png)
 
 
 This project is aimed at beginners and enthusiasts who want practical experience with Linux server management and web application deployment.
